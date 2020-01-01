@@ -1,2 +1,2 @@
-# NLP-Youtube Malayalam Comments Vulnerability Checker
+# NLP-Youtube Malayalam Comments Vulnerability Checker(YMCVC)
 Natural Language Processing
