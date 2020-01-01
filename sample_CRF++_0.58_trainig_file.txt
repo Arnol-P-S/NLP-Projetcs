@@ -1,0 +1,14 @@
+സൗണ്ട്      \V_VM_VNF       S-Neut
+വളരെ        \RP_INTF        S-Neut
+അരോചകം      \N_NN       S-Neg
+ആയി	        \RB     S-Neut
+തോന്നി,     \V_VM_VNF       S-Neut
+പഴയ     \JJ     S-Neut
+നാടകങ്ങളിൽ      \N_NN       S-Neut
+ഉള്ളത്      \V_VM_VNF       S-Neut
+പോലെ        \PSP        S-Neut
+.       \RD_PUNC        S-Neut
+വിശ്വാസത്തിൽ        \N_NN       S-Pos
+തൊട്ട്	        \V_VM_VNF       S-Neut
+കളിക്കുന്നവർ        \N_NN       S-Neut
+നശിച്ച്     \V_VM_VNF       S-Neg
