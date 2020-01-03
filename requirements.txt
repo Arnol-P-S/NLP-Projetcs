@@ -1,0 +1,18 @@
+-Python Packages-
+
+>re(Regular expression operations)
+>Sys(System-specific parameters and functions)
+>argparse(Parser for command-line options, arguments and sub-commands)
+>json(JSON encoder and decoder)
+>time(Time access and conversions)
+>lxml(processing XML and HTML)
+>requestes(HTTP library)
+>nltk(Natural Language Processing)
+>BeautifulSoup(pulling data out of HTML and XML files)
+>googleapiclient(client library for accessing the Plus, Moderator, and many other Google APIs)
+>Flask(Python web framework)
+
+-Tools-
+
+>TnT Tagger
+>CRF++: Yet Another CRF toolkit
